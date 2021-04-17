@@ -22,7 +22,7 @@ The SmiteBot Prefix is ">". There is a list of commands as shown below, to use w
 >counter
       >counter god_name - Informs a user of a counter god for their entered SMITE god (ex: ">counter agni")
 
->type god_role - Outputs a list of all gods with specified SMITE role (ex: ">type assassin")
+>type god_role - Outputs a list of all gods with specified SMITE role (ex: ">type warrior")
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
