@@ -1,7 +1,7 @@
 # SmiteBot
 
 Welcome @SmiteBot#7979 to your server! This is a bot that will allow you to quickly access info about SMITE,
-and learn more about gods, their counters, and more! Version 1.2.0 was released 04/16/21 @ 12:00AM EST.
+and learn more about gods, their counters, and more! Version 1.2.0 was released 04/17/21 @ 12:00AM EST.
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
