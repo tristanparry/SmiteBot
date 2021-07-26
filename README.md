@@ -1,3 +1,4 @@
+![d572cyp-fafc45a0-4d40-459b-bb83-6b127c54f26c](https://user-images.githubusercontent.com/64918749/126926109-3d61b6c4-9eff-44ed-9be1-9c69d1c40499.png)
 # SmiteBot
 
 Welcome @SmiteBot#7979 to your server! This is a bot that will allow you to quickly access info about SMITE,
